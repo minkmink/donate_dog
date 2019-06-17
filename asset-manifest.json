@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/donate_dog/static/css/main.4d11d4bd.chunk.css",
+    "main.js": "/donate_dog/static/js/main.54b3f693.chunk.js",
+    "main.js.map": "/donate_dog/static/js/main.54b3f693.chunk.js.map",
+    "runtime~main.js": "/donate_dog/static/js/runtime~main.7a4a8db9.js",
+    "runtime~main.js.map": "/donate_dog/static/js/runtime~main.7a4a8db9.js.map",
+    "static/js/2.714a5e69.chunk.js": "/donate_dog/static/js/2.714a5e69.chunk.js",
+    "static/js/2.714a5e69.chunk.js.map": "/donate_dog/static/js/2.714a5e69.chunk.js.map",
+    "index.html": "/donate_dog/index.html",
+    "precache-manifest.73c4f5889c5e9fd23085dd07b0fd06c4.js": "/donate_dog/precache-manifest.73c4f5889c5e9fd23085dd07b0fd06c4.js",
+    "service-worker.js": "/donate_dog/service-worker.js",
+    "static/css/main.4d11d4bd.chunk.css.map": "/donate_dog/static/css/main.4d11d4bd.chunk.css.map",
+    "static/media/index.css": "/donate_dog/static/media/1212.402e4eb4.jpg"
+  }
+}
